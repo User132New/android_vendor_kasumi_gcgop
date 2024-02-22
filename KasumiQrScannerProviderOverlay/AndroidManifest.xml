@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="xyz.projectkasumi.qr_code_scanner_provider_overlay">
+    package="com.windowz414.kasumi.qr_code_scanner_provider_overlay">
 
     <overlay
         android:isStatic="true"
